@@ -1,9 +1,9 @@
 - name: Phone
   url: tel:+17205157795
-  icon: ri:customer-service
-  color: '#1877F2'
+  icon: ic:baseline-phone
+  color: '#2779F6'
 
 - name: Email
   url: mailto:info@ruckusps.net
-  icon: ri:mail-send
-  color: '#1877F2'
+  icon: ic:baseline-email
+  color: '#2779F6'

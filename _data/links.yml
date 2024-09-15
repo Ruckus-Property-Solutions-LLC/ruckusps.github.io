@@ -3,7 +3,7 @@ icon-position: left # Set to left/right
 buttons:
 - category: Listings
   items:
-  - title: 3061 W 92nd Ave \#12C
+  - title: 3061 W 92nd Ave Unit 12C
     url: https://www.zillow.com/homedetails/3061-W-92nd-Ave-UNIT-12C-Westminster-CO-80031/12981633_zpid/
     icon: tdesign:houses
-    tag: Listing
+    tag: Active
